@@ -11,7 +11,7 @@ This repository contains the data and figures used for the paper "Measuring stud
   title={Measuring students' source code quality in software development projects through commit-impact analysis},
   author={Hamer, Sivana and Quesada-L{\'o}pez, Christian and Mart{\'i}nez, Alexandra and Jenkins, Marcelo},
   booktitle={International Conference on Information Technology \& Systems},
-  year={2022},
+  year={2021},
   organization={Springer}
 }
 ```
