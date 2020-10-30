@@ -7,8 +7,12 @@ This repository contains the data and figures used for the paper "Measuring stud
   <summary>Click to expand the reference to the paper </summary>
   
 ```
-@inproceedings{hamer2020x, 
-  reference
+@inproceedings{hamer2021measuring, 
+  title={Measuring students' source code quality in software development projects through commit-impact analysis},
+  author={Hamer, Sivana and Quesada-L{\'o}pez, Christian and Mart{\'i}nez, Alexandra and Jenkins, Marcelo},
+  booktitle={International Conference on Information Technology \& Systems},
+  year={2022},
+  organization={Springer}
 }
 ```
 <!-- [Paper Link](pending) -->
